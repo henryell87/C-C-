@@ -1,0 +1,7 @@
+C:\Users\HENRYELL\Source\Repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\HENRYELL\Source\Repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\HENRYELL\Source\Repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\HENRYELL\Source\Repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojAssemblyReference.cache
+C:\Users\HENRYELL\Source\Repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\Source\Repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\HENRYELL\Source\Repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\HENRYELL\Source\Repos\CalculatesFactorial\CalculatesFactorial\bin\Debug\CalculatesFactorial.exe.config
+C:\Users\HENRYELL\Source\Repos\CalculatesFactorial\CalculatesFactorial\bin\Debug\CalculatesFactorial.exe
+C:\Users\HENRYELL\Source\Repos\CalculatesFactorial\CalculatesFactorial\bin\Debug\CalculatesFactorial.pdb
+C:\Users\HENRYELL\Source\Repos\CalculatesFactorial\CalculatesFactorial\obj\Debug\CalculatesFactorial.csproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\Source\Repos\CalculatesFactorial\CalculatesFactorial\obj\Debug\CalculatesFactorial.exe
+C:\Users\HENRYELL\Source\Repos\CalculatesFactorial\CalculatesFactorial\obj\Debug\CalculatesFactorial.pdb
