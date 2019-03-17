@@ -1,0 +1,7 @@
+C:\Users\HENRYELL\Source\Repos\BoxApplication\BoxApplication\bin\Debug\BoxApplication.exe.config
+C:\Users\HENRYELL\Source\Repos\BoxApplication\BoxApplication\bin\Debug\BoxApplication.exe
+C:\Users\HENRYELL\Source\Repos\BoxApplication\BoxApplication\bin\Debug\BoxApplication.pdb
+C:\Users\HENRYELL\Source\Repos\BoxApplication\BoxApplication\obj\Debug\BoxApplication.csprojAssemblyReference.cache
+C:\Users\HENRYELL\Source\Repos\BoxApplication\BoxApplication\obj\Debug\BoxApplication.csproj.CoreCompileInputs.cache
+C:\Users\HENRYELL\Source\Repos\BoxApplication\BoxApplication\obj\Debug\BoxApplication.exe
+C:\Users\HENRYELL\Source\Repos\BoxApplication\BoxApplication\obj\Debug\BoxApplication.pdb
