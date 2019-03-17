@@ -1,0 +1,25 @@
+﻿Build started 3/21/2012 10:58:49 AM.
+     1>Project "\\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Quicksort6\Quicksort6.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "\\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Quicksort6.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MyParser.cpp Quicksort6.cpp
+         Quicksort6.cpp
+         MyParser.cpp
+         Generating Code...
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Debug\Quicksort6.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Quicksort6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Debug\Quicksort6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Debug\Quicksort6.lib" /MACHINE:X86 Debug\MyParser.obj
+         Debug\Quicksort6.obj
+         Quicksort6.vcxproj -> \\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Debug\Quicksort6.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"\\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Debug\Quicksort6.exe;#1" /manifest Debug\Quicksort6.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Quicksort6.unsuccessfulbuild".
+         Touching "Debug\Quicksort6.lastbuildstate".
+     1>Done Building Project "\\kc.umkc.edu\kc-users\home\h\hdez7c\My Documents\Visual Studio 2010\Projects\Quicksort6\Quicksort6\Quicksort6.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.05

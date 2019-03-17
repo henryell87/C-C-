@@ -1,0 +1,6 @@
+﻿  MyParser.cpp
+  Quicksort6.cpp
+  Generating code
+  All 205 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : fatal error LNK1207: incompatible PDB format in 'C:\Quicksort6\Release\Quicksort6.pdb'; delete and rebuild
